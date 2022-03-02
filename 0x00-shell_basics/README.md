@@ -1,1 +1,1 @@
-Lists all files in dir including hidden files 
+Displays user and group ID numerically including hidden files 
