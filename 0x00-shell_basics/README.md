@@ -1,1 +1,1 @@
-Changes working dir to users home dir
+Lists files in long format
