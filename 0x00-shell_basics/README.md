@@ -1,1 +1,1 @@
-Prints the type of the file named 
+Creates symbolic link to /bin/ls 
