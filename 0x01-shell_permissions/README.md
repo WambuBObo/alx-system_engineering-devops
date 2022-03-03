@@ -1,1 +1,1 @@
-Adds multiple permissions to group owner, owner and other users
+Adds execute permission to all members
