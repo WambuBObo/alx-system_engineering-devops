@@ -1,2 +1,2 @@
 #!/bin/bash 
- cp -r child/*.html /../
+ cp -u ./*.html ../
