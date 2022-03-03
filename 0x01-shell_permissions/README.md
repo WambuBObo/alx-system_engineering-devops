@@ -1,1 +1,1 @@
-Prints effective username of current user
+Prints all grpups that current user is in
