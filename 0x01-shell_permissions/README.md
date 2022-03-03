@@ -1,1 +1,1 @@
-Prints all grpups that current user is in
+Changes owner of file 'hello' to betty
