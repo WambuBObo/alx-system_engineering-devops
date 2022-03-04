@@ -1,1 +1,1 @@
-Creates directory with specific permissions
+Changes group owner
