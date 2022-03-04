@@ -1,1 +1,1 @@
-Adds all permissions to other users only
+Sets the mode of file hello to -rwxr-x-wx
