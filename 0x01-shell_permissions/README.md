@@ -1,1 +1,1 @@
-Sets directories permissions
+Creates directory with specific permissions
