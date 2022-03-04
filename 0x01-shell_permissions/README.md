@@ -1,1 +1,1 @@
-Sets mirror permissions
+Sets directories permissions
