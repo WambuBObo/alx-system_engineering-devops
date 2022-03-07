@@ -1,1 +1,1 @@
-Displays number of lines that contain the pattern "bin" in a file
+Displays lines containing certain pattern and three lines after them
