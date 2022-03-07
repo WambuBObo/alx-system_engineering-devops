@@ -1,1 +1,1 @@
-Displays the third line of file iacta
+Script that writes into a file and saves current state of dir
