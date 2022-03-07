@@ -1,1 +1,1 @@
-Prints Hello, World to standard output
+Displays content of a file
