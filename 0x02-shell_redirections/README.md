@@ -1,1 +1,1 @@
-Displays lines that do not contain certain pattern
+Displays lines that start with letter including capital letter
