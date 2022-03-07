@@ -1,1 +1,1 @@
-Prints words that appear only once
+Displays lines containing the pattern 'root' from given file
