@@ -1,1 +1,1 @@
-Counts all files in current dir
+Displays ten newest files in current dir and sorts them from newest to oldest
