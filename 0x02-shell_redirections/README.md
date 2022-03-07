@@ -1,1 +1,1 @@
-Displays lines that start with letter including capital letter
+Replaces all characters A and c from input to Z and e
