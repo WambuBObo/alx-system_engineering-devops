@@ -1,1 +1,1 @@
-Replaces all characters A and c from input to Z and e
+Removes particular characters from input
