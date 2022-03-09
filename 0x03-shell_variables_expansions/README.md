@@ -1,1 +1,1 @@
-Prints out result of converting binary to decimal
+Prints number with two decimal place
