@@ -1,1 +1,1 @@
-Creates a new global variable
+Adds integer and variable name
