@@ -1,1 +1,1 @@
-Prints out result of exponentiation among variables
+Prints out result of converting binary to decimal
