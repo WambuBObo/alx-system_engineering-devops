@@ -1,1 +1,1 @@
-PriPrints all possible combinations of two letters except oo
+Counts the number of directories in the PATH
