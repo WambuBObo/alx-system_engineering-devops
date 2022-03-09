@@ -1,1 +1,1 @@
-Prints 'hello user'
+Adds /actin to PATH
