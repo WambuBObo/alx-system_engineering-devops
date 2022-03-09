@@ -1,1 +1,1 @@
-Prints out result of division of two environment variables
+Prints out result of exponentiation among variables
