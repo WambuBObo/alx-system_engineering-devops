@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
-# Display content of the currnt working directory 
-# Without displaying hidden files 
+# Displays the contents of the current directory in list format.
+#   Only displays the part of the name after the first dash. 
 
-plist=$(ls)
-for files in plist
-do
-	find "$files" | cut -d '-' -f2
+list=$(ls)
+for i in $list; do
+  echo "$i" | cut -d '-' -f2
 done
