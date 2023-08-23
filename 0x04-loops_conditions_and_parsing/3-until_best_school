@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
-# A script that prints a string 10 times
+# Displays "Best School" 10 times using an until loop.
 
 count=0
-until [ $count -gt 9 ]
-do 
-	echo "Best School"
-	((count++))
+
+until [ $count -eq 10 ]
+do
+  echo "Best School"
+  (( count++ ))
 done
